@@ -1,6 +1,6 @@
 # Chat-App
 
-C
+
 A real-time chat application built using React, Firebase Authentication, Cloud Firestore, and Firebase Storage.
 Users can sign up, create profiles, search users, start chats, and exchange messages instantly.
 
